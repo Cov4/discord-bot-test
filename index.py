@@ -1,10 +1,6 @@
 import discord
 import datetime
-<<<<<<< HEAD
 token = "OTg5ODI4NzM4OTY5NjMyODY5.GTZ3fm.zUXQRqHMlux7ACWNPtF4WTNJzptahvFUEXcILw"
-=======
-token = "OTg5ODI4NzM4OTY5NjMyODY5.GRmQyO.QOPKpUmKdzndaSE0gQHvkl1QKId4Lc_ysWVQ9k"
->>>>>>> ceddfa43ac510a14a770ae8fb60cf619de9aae33
 client = discord.Client()
 
 today = datetime.date.today()
